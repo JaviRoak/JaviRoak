@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋Hello, im JaviRoak:
 SOFTWARE DEVELOPER // WEB DEVELOPER
 
 
