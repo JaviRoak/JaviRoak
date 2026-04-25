@@ -53,7 +53,6 @@
 ## `A.2 — PERFORMANCE`  `// GITHUB TELEMETRY`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javiroak&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=F0A020&icon_color=F0A020&text_color=cccccc&hide=issues,prs" height="170" />
   <img src="https://streak-stats.demolab.com?user=javiroak&hide_border=true&background=1a1a1a&stroke=F0A020&ring=F0A020&fire=F0A020&currStreakLabel=F0A020&sideLabels=cccccc&currStreakNum=ffffff&dates=cccccc&sideNums=ffffff" height="170" />
 </p>
 
