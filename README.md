@@ -1,3 +1,4 @@
+<img width="250" height="150" alt="dashboard" src="https://github.com/user-attachments/assets/212d4c30-2d78-4542-a7f8-2ee90d7e2e33" />
 ![JaviRoak Dashboard](./dashboard.svg)
 
 ### `A.2 — performance`  &nbsp;&nbsp;`// GITHUB TELEMETRY`
