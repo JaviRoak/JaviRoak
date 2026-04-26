@@ -1,4 +1,4 @@
-<img width="2500" height="1500" alt="dashboard" src="https://github.com/user-attachments/assets/212d4c30-2d78-4542-a7f8-2ee90d7e2e33" />
+<img width="3500" height="2500" alt="dashboard" src="https://github.com/user-attachments/assets/212d4c30-2d78-4542-a7f8-2ee90d7e2e33" />
 
 ### `A.2 — performance`  &nbsp;&nbsp;`// GITHUB TELEMETRY`
 
