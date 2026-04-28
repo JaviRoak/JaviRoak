@@ -1,4 +1,4 @@
-<img width="2500" height="900" alt="dashboard2" src="https://github.com/user-attachments/assets/f143b91e-06ed-4a1d-9dd9-0018f4ebc0bd" />
+<img width="2500" height="800" alt="dashboard2" src="https://github.com/user-attachments/assets/f143b91e-06ed-4a1d-9dd9-0018f4ebc0bd" />
 
 ### `A.1 — stack — what's installed`
 
@@ -18,7 +18,7 @@
 ### `A.2 — performance`  &nbsp;&nbsp;`// GITHUB TELEMETRY`
 
 <p align="left">
-  <img width="1500" height="700" src="https://streak-stats.demolab.com?user=javiroak&hide_border=true&background=141414&stroke=222222&ring=F0A020&fire=F0A020&currStreakLabel=F0A020&sideLabels=cccccc&currStreakNum=ffffff&dates=666666&sideNums=ffffff" height="170" alt="GitHub streak" />
+  <img width="1100" height="600" src="https://streak-stats.demolab.com?user=javiroak&hide_border=true&background=141414&stroke=222222&ring=F0A020&fire=F0A020&currStreakLabel=F0A020&sideLabels=cccccc&currStreakNum=ffffff&dates=666666&sideNums=ffffff" height="170" alt="GitHub streak" />
 </p>
 
 ```bash
