@@ -24,7 +24,7 @@
 </p>
 
 ```bash
-javiroak@profile:~$ echo "thanks for visiting. send a PR."
-thanks for visiting. send a PR.
+javiroak@profile:~$ echo "thanks for visiting."
+thanks for visiting. 
 javiroak@profile:~$ █
 ```
