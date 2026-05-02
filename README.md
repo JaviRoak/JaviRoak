@@ -20,7 +20,7 @@
 ### `A.2 — performance`  &nbsp;&nbsp;`// GITHUB TELEMETRY`
 
 <p align="left">
-  <img width="800" height="300" src="https://streak-stats.demolab.com?user=javiroak&hide_border=true&background=141414&stroke=222222&ring=F0A020&fire=F0A020&currStreakLabel=F0A020&sideLabels=cccccc&currStreakNum=ffffff&dates=666666&sideNums=ffffff" height="170" alt="GitHub streak" />
+  <img width="750" height="300" src="https://streak-stats.demolab.com?user=javiroak&hide_border=true&background=141414&stroke=222222&ring=F0A020&fire=F0A020&currStreakLabel=F0A020&sideLabels=cccccc&currStreakNum=ffffff&dates=666666&sideNums=ffffff" height="170" alt="GitHub streak" />
 </p>
 
 ```bash
