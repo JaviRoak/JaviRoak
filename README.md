@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/.NET-F0A020?style=for-the-badge&logo=dotnet&logoColor=0d0d0d" height="38" />
   <img src="https://img.shields.io/badge/Apache-F0A020?style=for-the-badge&logo=apache&logoColor=0d0d0d" height="38" />
   <img src="https://img.shields.io/badge/SQLite-F0A020?style=for-the-badge&logo=sqlite&logoColor=0d0d0d" height="38" />
-  <img src="https://img.shields.io/badge/RobloxStudio-F0A020?style=for-the-badge&logo=roblox&logoColor=0d0d0d" height="38" />
+  <img src="https://img.shields.io/badge/Roblox Studio-F0A020?style=for-the-badge&logo=roblox&logoColor=0d0d0d" height="38" />
   <img src="https://img.shields.io/badge/Blender-F0A020?style=for-the-badge&logo=blender&logoColor=0d0d0d" height="38" />
   <img src="https://img.shields.io/badge/Canva-F0A020?style=for-the-badge&logo=canva&logoColor=0d0d0d" height="38" />
 </p>
