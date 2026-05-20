@@ -42,7 +42,22 @@
   </tr>
 </table>
 
-### `A.3 — performance`  &nbsp;&nbsp;
+### `A.3 — Roblox projects`  &nbsp;&nbsp;
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <a href="https://www.roblox.com/games/9784247588/CAT-TYCOON">
+        <img src="./assets/cat-tycoon.png" width="150" height="150" alt="Cat Tycoon" /><br/>
+        <b>Cat Tycoon</b>
+      </a><br/>
+      <sub>2023 · 8M+ visits</sub><br/>
+      <sub>▸ <a href="https://www.roblox.com/games/9784247588/CAT-TYCOON">play</a></sub>
+    </td>
+  </tr>
+</table>
+
+### `A.4 — performance`  &nbsp;&nbsp;
 
 <p align="left">
   <img width="750" height="300" src="https://streak-stats.demolab.com?user=javiroak&hide_border=true&background=141414&stroke=222222&ring=F0A020&fire=F0A020&currStreakLabel=F0A020&sideLabels=cccccc&currStreakNum=ffffff&dates=666666&sideNums=ffffff" height="170" alt="GitHub streak" />
