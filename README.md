@@ -19,6 +19,7 @@
 
 ### `A.2 — Websites`  &nbsp;&nbsp;
 
+<div align="center">
 <table width="100%">
   <tr>
     <td width="220"><b><a href="https://javiroak.github.io/PinBoard/">PinBoard</a></b></td>
@@ -41,9 +42,11 @@
     <td>An simple online wishlist with links to online shops.</td>
   </tr>
 </table>
+</div>
 
 ### `A.3 — Roblox projects`  &nbsp;&nbsp;
 
+<div align="center">
 <table width="100%">
   <tr>
     <td align="center" width="20%">
@@ -83,12 +86,13 @@
     </td>
   </tr>
 </table>
+</div>
 
 ### `A.4 — performance`  &nbsp;&nbsp;
 
-<p align="left">
-  <img width="100%" src="https://streak-stats.demolab.com?user=javiroak&hide_border=true&background=141414&stroke=222222&ring=F0A020&fire=F0A020&currStreakLabel=F0A020&sideLabels=cccccc&currStreakNum=ffffff&dates=666666&sideNums=ffffff" alt="GitHub streak" />
-</p>
+<div align="center">
+  <img width="495" src="https://streak-stats.demolab.com?user=javiroak&hide_border=true&background=141414&stroke=222222&ring=F0A020&fire=F0A020&currStreakLabel=F0A020&sideLabels=cccccc&currStreakNum=ffffff&dates=666666&sideNums=ffffff" alt="GitHub streak" />
+</div>
 
 ##  &nbsp;Snake Devouring My Contributions
 
