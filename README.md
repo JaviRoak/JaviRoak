@@ -46,44 +46,41 @@
 
 <table>
   <tr>
-    <td align="center" width="170">
+    <td align="center" width="110">
       <a href="https://www.roblox.com/games/9784247588/CAT-TYCOON">
-        <img src="./assets/cat-tycoon.png" width="140" height="140" alt="Cat Tycoon" /><br/>
+        <img src="./assets/cat-tycoon.png" width="90" height="90" alt="Cat Tycoon" /><br/>
         <b>Cat Tycoon</b>
       </a><br/>
-      <sub>2023 · 8M+ visits</sub>
+      <sub>2023 · 8M+</sub>
     </td>
-    <td align="center" width="170">
+    <td align="center" width="110">
       <a href="https://www.roblox.com/games/17249560307/My-Kitten-Tower">
-        <img src="./assets/cat-tower.png" width="140" height="140" alt="My Kitten Tower" /><br/>
+        <img src="./assets/cat-tower.png" width="90" height="90" alt="My Kitten Tower" /><br/>
         <b>My Kitten Tower</b>
       </a><br/>
-      <sub>2024 · 6M+ visits</sub>
+      <sub>2024 · 6M+</sub>
     </td>
-    <td align="center" width="170">
+    <td align="center" width="110">
       <a href="https://www.roblox.com/games/16802032810/My-Axolotl-Tycoon">
-        <img src="./assets/axolotl-game.png" width="140" height="140" alt="My Axolotl Tycoon" /><br/>
+        <img src="./assets/axolotl-game.png" width="90" height="90" alt="My Axolotl Tycoon" /><br/>
         <b>My Axolotl Tycoon</b>
       </a><br/>
-      <sub>2024 · 4M+ visits</sub>
+      <sub>2024 · 4M+</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="170">
+    <td align="center" width="110">
       <a href="https://www.roblox.com/games/124446712766311/Catch-the-Cat">
-        <img src="./assets/grandma-game.png" width="140" height="140" alt="Catch the Cat" /><br/>
+        <img src="./assets/grandma-game.png" width="90" height="90" alt="Catch the Cat" /><br/>
         <b>Catch the Cat</b>
       </a><br/>
-      <sub>2025 · 4M+ visits</sub>
+      <sub>2025 · 4M+</sub>
     </td>
-    <td align="center" width="170">
+    <td align="center" width="110">
       <a href="https://www.roblox.com/games/93713441809953/Build-a-Bird-Nest">
-        <img src="./assets/tycoon-game.png" width="140" height="140" alt="Build a Bird Nest" /><br/>
+        <img src="./assets/tycoon-game.png" width="90" height="90" alt="Build a Bird Nest" /><br/>
         <b>Build a Bird Nest</b>
       </a><br/>
-      <sub>2025 · 1M+ visits</sub>
+      <sub>2025 · 1M+</sub>
     </td>
-    <td align="center" width="170"></td>
   </tr>
 </table>
 
