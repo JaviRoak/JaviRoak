@@ -17,7 +17,32 @@
   <img src="https://img.shields.io/badge/Canva-F0A020?style=for-the-badge&logo=canva&logoColor=0d0d0d" height="38" />
 </p>
 
-### `A.2 — performance`  &nbsp;&nbsp;
+### `A.2 — Websites`  &nbsp;&nbsp;
+
+<table>
+  <tr>
+    <td><b><a href="https://javiroak.github.io/PinBoard/">PinBoard</a></b></td>
+    <td>Website for onnline notes.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://javiroak.github.io/MathMentor/">Math Mentor</a></b></td>
+    <td>Online calculator that explains step by step.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://javiroak.github.io/Clue-Score-Sheet-Online/">Clue sheet</a></b></td>
+    <td>An online replace for clue game board sheet.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://javiroak.github.io/iconocreativo/">iconocreativos.com</a></b></td>
+    <td>Template for advertising agency's  IconoCreativo website.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://javiroak.github.io/Wishlist/">Online Wishlist</a></b></td>
+    <td>An simple online wishlist with links to online shops.</td>
+  </tr>
+</table>
+
+### `A.3 — performance`  &nbsp;&nbsp;
 
 <p align="left">
   <img width="750" height="300" src="https://streak-stats.demolab.com?user=javiroak&hide_border=true&background=141414&stroke=222222&ring=F0A020&fire=F0A020&currStreakLabel=F0A020&sideLabels=cccccc&currStreakNum=ffffff&dates=666666&sideNums=ffffff" height="170" alt="GitHub streak" />
