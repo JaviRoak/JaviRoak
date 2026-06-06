@@ -41,6 +41,10 @@
     <td width="220"><b><a href="https://javiroak.github.io/Wishlist/">Online Wishlist</a></b></td>
     <td>An simple online wishlist with links to online shops.</td>
   </tr>
+   <tr>
+    <td width="220"><b><a href="https://javiroak.github.io/PaletteEditor/">Palette Editor</a></b></td>
+    <td>A simple web, that solves me a very specific task.</td>
+  </tr>
 </table>
 </div>
 
