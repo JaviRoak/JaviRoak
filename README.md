@@ -92,7 +92,7 @@
 </table>
 </div>
 
-### `A.4 — performance`  &nbsp;&nbsp;
+### `A.4 — Performance`  &nbsp;&nbsp;
 
 <div align="center">
   <img width="495" src="https://streak-stats.demolab.com?user=javiroak&hide_border=true&background=141414&stroke=222222&ring=F0A020&fire=F0A020&currStreakLabel=F0A020&sideLabels=cccccc&currStreakNum=ffffff&dates=666666&sideNums=ffffff" alt="GitHub streak" />
