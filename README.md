@@ -110,7 +110,7 @@
 
 
 ```bash
-javiroak@profile:~$ echo "thanks for visiting."
+javiroak@profile:~$ echo "thanks for visiting"
 thanks for visiting. 
 javiroak@profile:~$ █
 ```
