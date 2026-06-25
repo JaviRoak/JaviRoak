@@ -22,8 +22,8 @@
 <div align="center">
 <table width="100%">
    <tr>
-    <td width="220"><b><a href="https://impostor-eight-rust.vercel.app/">Browser-based multiplayer social deduction word game, in English and Spanish. Everyone gets a secret word — except the Impostor, who gets either a clue (a neighboring word) or nothing at all, depending on the host's settings. Give clues, vote, and survive the live-typed Final Guess.</a></b></td>
-    <td>Website for onnline notes.</td>
+    <td width="220"><b><a href="https://impostor-eight-rust.vercel.app/">Impostor game</a></b></td>
+    <td>Browser-based multiplayer social deduction word game. I test MVP and live servers</td>
   </tr>
   <tr>
     <td width="220"><b><a href="https://javiroak.github.io/PinBoard/">PinBoard</a></b></td>
