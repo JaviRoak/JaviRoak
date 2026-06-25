@@ -23,7 +23,7 @@
 <table width="100%">
    <tr>
     <td width="220"><b><a href="https://impostor-eight-rust.vercel.app/">Impostor game</a></b></td>
-    <td>Browser-based multiplayer social deduction word game. I test MVP and live servers</td>
+    <td>Browser-based multiplayer social deduction word game. I test deploy backend and servers</td>
   </tr>
   <tr>
     <td width="220"><b><a href="https://javiroak.github.io/PinBoard/">PinBoard</a></b></td>
