@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td width="220"><b><a href="https://javiroak.github.io/PinBoard/">PinBoard</a></b></td>
-    <td>Website for onnline notes.</td>
+    <td>Website for online notes.</td>
   </tr>
   <tr>
     <td width="220"><b><a href="https://javiroak.github.io/MathMentor/">Math Mentor</a></b></td>
