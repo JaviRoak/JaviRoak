@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td width="220"><b><a href="https://javiroak.github.io/iconocreativo/">iconocreativos.com</a></b></td>
-    <td>Template for advertising agency's  IconoCreativo website.</td>
+    <td>Template for advertising agency's IconoCreativo website.</td>
   </tr>
   <tr>
     <td width="220"><b><a href="https://javiroak.github.io/Wishlist/">Online Wishlist</a></b></td>
