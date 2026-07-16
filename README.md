@@ -90,7 +90,7 @@
         <img src="./assets/tycoon-game.png" width="150" height="150" alt="Build a Bird Nest" /><br/>
         <b>Build a Bird Nest</b>
       </a><br/>
-      <sub>2025 · 1M+ visits</sub>
+      <sub>2025 · 2M+ visits</sub>
     </td>
   </tr>
 </table>
