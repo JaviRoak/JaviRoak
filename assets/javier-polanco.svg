@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 441" width="640" height="441" role="img" aria-label="perfil — javiroak@sv">
+<rect width="640" height="441" rx="10" fill="#0B0F16"/>
+<path d="M0,10 A10,10 0 0 1 10,0 H630 A10,10 0 0 1 640,10 V38 H0 Z" fill="#111823"/>
+<line x1="0" y1="38" x2="640" y2="38" stroke="#2B3A4F" stroke-width="1"/>
+<circle cx="20" cy="19" r="6" fill="#FF5F57"/>
+<circle cx="40" cy="19" r="6" fill="#FEBC2E"/>
+<circle cx="60" cy="19" r="6" fill="#28C840"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" xml:space="preserve">
+<text x="320.0" y="23.0" font-size="11" fill="#4C5D77" text-anchor="middle" letter-spacing="0.6">perfil — javiroak@sv</text>
+<text x="32" y="72" font-size="12.5" fill="#D9A94E" font-weight="bold">$</text>
+<text x="48" y="72" font-size="12.5" fill="#F7E3B0">whoami</text>
+<text x="32" y="112" font-size="28" fill="#F7E3B0" letter-spacing="3.5" font-weight="bold">JAVIER POLANCO</text>
+<text x="32" y="144" font-size="12.5" fill="#D9A94E" letter-spacing="1.4">@javiroak</text>
+<text x="132" y="144" font-size="12.5" fill="#4C5D77">· software developer · web</text>
+<line x1="32" y1="166" x2="608" y2="166" stroke="#2B3A4F" stroke-width="1"/>
+<text x="32" y="194" font-size="12.5" fill="#D9A94E" font-weight="bold">$</text>
+<text x="48" y="194" font-size="12.5" fill="#F7E3B0">cat perfil.txt</text>
+<text x="32" y="222" font-size="11" fill="#4C5D77" letter-spacing="1.2">CATEGORY</text>
+<text x="180" y="222" font-size="11.5" fill="#F7E3B0">software developer · web</text>
+<text x="32" y="245" font-size="11" fill="#4C5D77" letter-spacing="1.2">PRIMARY LANG</text>
+<text x="180" y="245" font-size="11.5" fill="#D9A94E">C# · JavaScript · Python</text>
+<text x="32" y="268" font-size="11" fill="#4C5D77" letter-spacing="1.2">SPECIALTY</text>
+<text x="180" y="268" font-size="11.5" fill="#F7E3B0">back-end leaning, data-friendly</text>
+<text x="32" y="291" font-size="11" fill="#4C5D77" letter-spacing="1.2">FRAMEWORKS</text>
+<text x="180" y="291" font-size="11.5" fill="#D9A94E">.NET · Apache</text>
+<text x="32" y="314" font-size="11" fill="#4C5D77" letter-spacing="1.2">DATA</text>
+<text x="180" y="314" font-size="11.5" fill="#D9A94E">SQLite</text>
+<text x="32" y="337" font-size="11" fill="#4C5D77" letter-spacing="1.2">PLATFORMS</text>
+<text x="180" y="337" font-size="11.5" fill="#D9A94E">Roblox · Blender</text>
+<text x="32" y="360" font-size="11" fill="#4C5D77" letter-spacing="1.2">LOCATION</text>
+<text x="180" y="360" font-size="11.5" fill="#F7E3B0">San Salvador, SV · UTC-6</text>
+<text x="32" y="383" font-size="11" fill="#4C5D77" letter-spacing="1.2">STATUS</text>
+<circle cx="184" cy="379" r="3.2" fill="#28C840"/>
+<text x="194" y="383" font-size="11.5" fill="#28C840">available for work</text>
+<text x="32" y="417" font-size="12.5" fill="#D9A94E" font-weight="bold">$</text>
+<rect x="48" y="407" width="8" height="13" fill="#F7E3B0" opacity="0.85"/>
+</g>
+<rect x="0.5" y="0.5" width="639" height="440" rx="10" fill="none" stroke="#2B3A4F" stroke-width="1"/>
+</svg>
