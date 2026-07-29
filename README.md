@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="./assets/javiroak-ascii.svg" height="190">
-  <img src="https://github.com/user-attachments/assets/f143b91e-06ed-4a1d-9dd9-0018f4ebc0bd" height="190">
+  <img src="./assets/javiroak-ascii.svg" height="320">
+  <img src="./assets/javier-polanco.svg" height="320">
 </p>
 
 ### `A.1 — Stack `
