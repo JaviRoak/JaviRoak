@@ -1,4 +1,4 @@
-
+<img src="./assets/javiroak-ascii.svg" width="100%" alt="ASCII portrait">
 <img width="2450" height="750" alt="dashboard2" src="https://github.com/user-attachments/assets/f143b91e-06ed-4a1d-9dd9-0018f4ebc0bd" />
 
 ### `A.1 — Stack `
