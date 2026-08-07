@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/javiroak-ascii.svg" height="320">
+  <img src="./assets/javiroak-ascii.svg" height="318">
   <img src="./assets/javier-polanco.svg" height="320">
 </p>
 
