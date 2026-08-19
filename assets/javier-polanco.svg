@@ -31,7 +31,7 @@
 <text x="180" y="360" font-size="11.5" fill="#F7E3B0">San Salvador, SV · UTC-6</text>
 <text x="32" y="383" font-size="11" fill="#4C5D77" letter-spacing="1.2">STATUS</text>
 <circle cx="184" cy="379" r="3.2" fill="#28C840"/>
-<text x="194" y="383" font-size="11.5" fill="#28C840">available for work</text>
+<text x="194" y="383" font-size="11.5" fill="#c72828">Working</text>
 <text x="32" y="417" font-size="12.5" fill="#D9A94E" font-weight="bold">$</text>
 <rect x="48" y="407" width="8" height="13" fill="#F7E3B0" opacity="0.85"/>
 </g>
