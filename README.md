@@ -6,7 +6,7 @@
 ### `A.1 — Stack `
  
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-F0A020?style=for-the-badge&logo=dotnet&logoColor=0d0d0d" height="46" />
+  <img src="https://img.shields.io/badge/C%23-F0A020?style=for-the-badge&logoColor=0d0d0d" height="46" />
   <img src="https://img.shields.io/badge/JavaScript-F0A020?style=for-the-badge&logo=javascript&logoColor=0d0d0d" height="46" />
   <img src="https://img.shields.io/badge/Python-F0A020?style=for-the-badge&logo=python&logoColor=0d0d0d" height="46" />
   <img src="https://img.shields.io/badge/Java-F0A020?style=for-the-badge&logo=openjdk&logoColor=0d0d0d" height="46" />
