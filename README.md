@@ -79,7 +79,7 @@
         <img src="./assets/axolotl-game.png" width="150" height="150" alt="My Axolotl Tycoon" /><br/>
         <b>My Axolotl Tycoon</b>
       </a><br/>
-      <sub>2024 · 4M+ visits</sub>
+      <sub>2024 · 5M+ visits</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://www.roblox.com/games/124446712766311/Catch-the-Cat">
