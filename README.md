@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Roblox Studio-F0A020?style=for-the-badge&logo=roblox&logoColor=0d0d0d" height="46" />
   <img src="https://img.shields.io/badge/Blender-F0A020?style=for-the-badge&logo=blender&logoColor=0d0d0d" height="46" />
   <img src="https://img.shields.io/badge/Git-F0A020?style=for-the-badge&logo=git&logoColor=0d0d0d" height="46" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-F0A020?style=for-the-badge&logo=cisco&logoColor=0d0d0d" height="46" />
+  <img src="https://img.shields.io/badge/UiPath-F0A020?style=for-the-badge&logo=uipath&logoColor=0d0d0d" height="46" />
 </p>
 
 ### `A.2 — Websites`  &nbsp;&nbsp;
