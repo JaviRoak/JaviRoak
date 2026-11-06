@@ -106,7 +106,7 @@
 ##  &nbsp;Koi Swimming in My Commits
 
 <div align="center">
-  <img src="koi/koi.gif" width="512" alt="My koi" />
+  <img src="koi/koi-pond.gif" width="512" alt="My koi" />
 </div>
 
 ##  &nbsp;Snake Devouring My Contributions
