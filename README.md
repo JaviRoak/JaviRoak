@@ -103,6 +103,12 @@
   <img width="495" src="https://streak-stats.demolab.com?user=javiroak&hide_border=true&background=141414&stroke=222222&ring=F0A020&fire=F0A020&currStreakLabel=F0A020&sideLabels=cccccc&currStreakNum=ffffff&dates=666666&sideNums=ffffff" alt="GitHub streak" />
 </div>
 
+##  &nbsp;Koi Swimming in My Commits
+
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</div>
+
 ##  &nbsp;Snake Devouring My Contributions
 
 <div align="center">
