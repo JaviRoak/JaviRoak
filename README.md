@@ -97,19 +97,19 @@
 </table>
 </div>
 
-### `A.4 — Performance`  &nbsp;&nbsp;
-
-<div align="center">
-  <img width="495" src="https://streak-stats.demolab.com?user=javiroak&hide_border=true&background=141414&stroke=222222&ring=F0A020&fire=F0A020&currStreakLabel=F0A020&sideLabels=cccccc&currStreakNum=ffffff&dates=666666&sideNums=ffffff" alt="GitHub streak" />
-</div>
-
-##  &nbsp;Koi Swimming in My Commits
+### `A.4 — Languages`  &nbsp;&nbsp;
 
 <p align="center">
   <img src="koi/koi-pond.gif" width="256" alt="My koi" />
   &nbsp;
   <img src="koi/langs.svg" height="256" alt="Languages by repo count" />
 </p>
+
+### `A.5 — Performance`  &nbsp;&nbsp;
+
+<div align="center">
+  <img width="495" src="https://streak-stats.demolab.com?user=javiroak&hide_border=true&background=141414&stroke=222222&ring=F0A020&fire=F0A020&currStreakLabel=F0A020&sideLabels=cccccc&currStreakNum=ffffff&dates=666666&sideNums=ffffff" alt="GitHub streak" />
+</div>
 
 ##  &nbsp;Snake Devouring My Contributions
 
