@@ -106,7 +106,8 @@
 ##  &nbsp;Koi Swimming in My Commits
 
 <div align="center">
-  <img src="koi/koi-pond.gif" width="512" alt="My koi" />
+  <img src="koi/koi-pond.gif" width="512" alt="My koi" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiroak&layout=compact&hide_border=true&bg_color=141414&title_color=F0A020&text_color=cccccc&langs_count=6" width="512" alt="Top languages" />
 </div>
 
 ##  &nbsp;Snake Devouring My Contributions
