@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="256" viewBox="0 0 360 256">
+<style>text{font-family:"Segoe UI",Ubuntu,"Helvetica Neue",Arial,sans-serif}</style>
+<rect x="0.5" y="0.5" width="359" height="255" rx="14" fill="#141414" stroke="#222222"/>
+<text x="22" y="42" font-size="18" font-weight="600" fill="#F0A020">Languages</text>
+<text x="338" y="42" font-size="12" fill="#666666" text-anchor="end">by repo count</text>
+<clipPath id="b"><rect x="22" y="64" width="316" height="10" rx="5"/></clipPath>
+<g clip-path="url(#b)">
+<rect x="22.00" y="64" width="68.21" height="10" fill="#e34c26"/>
+<rect x="89.71" y="64" width="68.21" height="10" fill="#b07219"/>
+<rect x="157.43" y="64" width="68.21" height="10" fill="#f1e05a"/>
+<rect x="225.14" y="64" width="45.64" height="10" fill="#663399"/>
+<rect x="270.29" y="64" width="45.64" height="10" fill="#3178c6"/>
+<rect x="315.43" y="64" width="23.07" height="10" fill="#3572A5"/>
+</g>
+<circle cx="28" cy="104" r="6" fill="#e34c26"/>
+<text x="42" y="108" font-size="14" fill="#ffffff">HTML</text>
+<text x="42" y="126" font-size="12" fill="#cccccc">21% · 3 repos</text>
+<circle cx="192.0" cy="104" r="6" fill="#b07219"/>
+<text x="206.0" y="108" font-size="14" fill="#ffffff">Java</text>
+<text x="206.0" y="126" font-size="12" fill="#cccccc">21% · 3 repos</text>
+<circle cx="28" cy="148" r="6" fill="#f1e05a"/>
+<text x="42" y="152" font-size="14" fill="#ffffff">JavaScript</text>
+<text x="42" y="170" font-size="12" fill="#cccccc">21% · 3 repos</text>
+<circle cx="192.0" cy="148" r="6" fill="#663399"/>
+<text x="206.0" y="152" font-size="14" fill="#ffffff">CSS</text>
+<text x="206.0" y="170" font-size="12" fill="#cccccc">14% · 2 repos</text>
+<circle cx="28" cy="192" r="6" fill="#3178c6"/>
+<text x="42" y="196" font-size="14" fill="#ffffff">TypeScript</text>
+<text x="42" y="214" font-size="12" fill="#cccccc">14% · 2 repos</text>
+<circle cx="192.0" cy="192" r="6" fill="#3572A5"/>
+<text x="206.0" y="196" font-size="14" fill="#ffffff">Python</text>
+<text x="206.0" y="214" font-size="12" fill="#cccccc">7% · 1 repo</text>
+</svg>
