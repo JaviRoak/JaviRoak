@@ -97,7 +97,7 @@
 </table>
 </div>
 
-### `A.4 — Languages`  &nbsp;&nbsp;
+### `A.4 — Koi Palette`  &nbsp;&nbsp;
 
 <p align="center">
   <img src="koi/koi-pond.gif" width="256" alt="My koi" />
